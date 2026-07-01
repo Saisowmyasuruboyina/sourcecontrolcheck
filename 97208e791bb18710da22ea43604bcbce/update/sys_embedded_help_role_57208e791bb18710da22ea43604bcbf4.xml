@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_snc_myfirstgit.admin" name="x_snc_myfirstgit.admin">1f208e791bb18710da22ea43604bcbee</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>saisowmya.suruboyina@snc</sys_created_by>
+        <sys_created_on>2026-07-01 08:51:34</sys_created_on>
+        <sys_id>57208e791bb18710da22ea43604bcbf4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1f208e791bb18710da22ea43604bcbee</sys_name>
+        <sys_package display_value="MyfirstGit" source="x_snc_myfirstgit">97208e791bb18710da22ea43604bcbce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyfirstGit">97208e791bb18710da22ea43604bcbce</sys_scope>
+        <sys_update_name>sys_embedded_help_role_57208e791bb18710da22ea43604bcbf4</sys_update_name>
+        <sys_updated_by>saisowmya.suruboyina@snc</sys_updated_by>
+        <sys_updated_on>2026-07-01 08:51:34</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
