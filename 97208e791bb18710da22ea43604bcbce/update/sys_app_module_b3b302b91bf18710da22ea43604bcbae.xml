@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Source Control Check">b3b302b91bf18710da22ea43604bcba5</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Source Control Checks</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_snc_myfirstgit_source_control_check</name>
+        <order/>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <require_confirmation>true</require_confirmation>
+        <roles>x_snc_myfirstgit.source_control_check_user</roles>
+        <route/>
+        <screen/>
+        <survey/>
+        <survey_overwrite>true</survey_overwrite>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>saisowmya.suruboyina@snc</sys_created_by>
+        <sys_created_on>2026-07-01 09:07:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>b3b302b91bf18710da22ea43604bcbae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Source Control Checks</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyfirstGit" source="x_snc_myfirstgit">97208e791bb18710da22ea43604bcbce</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyfirstGit">97208e791bb18710da22ea43604bcbce</sys_scope>
+        <sys_update_name>sys_app_module_b3b302b91bf18710da22ea43604bcbae</sys_update_name>
+        <sys_updated_by>saisowmya.suruboyina@snc</sys_updated_by>
+        <sys_updated_on>2026-07-01 09:07:09</sys_updated_on>
+        <timeline_page/>
+        <title>Source Control Checks</title>
+        <uncancelable>false</uncancelable>
+        <ux_list/>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>
