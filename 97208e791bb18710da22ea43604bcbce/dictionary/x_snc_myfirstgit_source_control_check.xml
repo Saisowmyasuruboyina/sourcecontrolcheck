@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="f6a30e791bf18710da22ea43604bcb10" label="Source Control Check" max_length="40" name="x_snc_myfirstgit_source_control_check" type="collection">
+<<<<<<< HEAD
         <element label="Description of Repo" max_length="40" name="description_of_repo" type="string"/>
         <element label="Name of the repo" max_length="40" name="name_of_the_repo" type="string"/>
         <element label="Status" max_length="40" name="status" type="string"/>
+=======
+        <element label="Description of Repo" mandatory="true" max_length="40" name="description_of_repo" type="string"/>
+        <element label="Name of the repo" max_length="40" name="name_of_the_repo" type="string"/>
+>>>>>>> sn_instances/empssuruboyina3
     </element>
 </database>
